@@ -39,6 +39,14 @@ To detect human faces in an image and cluster them into groups using K-Means clu
 6. The template face is compared against cluster centroids.
 7. Results are visualized using scatter plots.
 
+## Key Findings
+- Faces with similar color tones grouped into the same cluster.
+- Hue and Saturation provide simple but meaningful features.
+- K-Means effectively separated faces into distinct color-based clusters.
+- The template image was successfully classified into one of the existing clusters.
+
+## Conclusion
+Simple color features like Hue and Saturation can be used with K-Means clustering to effectively group similar face images. This approach can help in applications like face recognition, image sorting, and color-based classification.
 ## Face Detection Output
 
 > Below is the image showing detected faces with bounding boxes
