@@ -41,9 +41,8 @@ To detect human faces in an image and cluster them into groups using K-Means clu
 
 ## Face Detection Output
 
-> Below is the image showing detected faces with bounding boxes.
-><img width="1402" height="1073" alt="Face_detected" src="https://github.com/user-attachments/assets/36a7a5a4-7a41-416d-8f03-d9048fbad425" />
+> Below is the image showing detected faces with bounding boxes
+> <img width="1280" height="854" alt="Total number of face detected are 30" src="https://github.com/user-attachments/assets/ca930707-5013-4cef-ad47-cdaa10d889c7" />
+.
+> <img width="400" height="400" alt="Shashi Tharoor" src="https://github.com/user-attachments/assets/d755151c-fb0a-4b54-8247-e19299c2a215" />
 
-> 
-
-<img width="522" height="619" alt="Twmplate face" src="https://github.com/user-attachments/assets/e22ee140-f546-45da-8316-b6374538dd26" />
